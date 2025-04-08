@@ -5,7 +5,7 @@ html정리
 <!DOCTYPE html>#문서성격
 <html>
 
-<head>#페이지 제목
+<head#페이지 제목
 	<title>hello</title>
 </head>
 
@@ -14,8 +14,14 @@ index.html 은 웹페이지 초기화면
 따라서 index.html은 생략 됨
 
 하이퍼링크 태그
+==============
+## <a href=""
 
-<a href=""
+이미지태그<img src="주소" width="가로길이" height="세로길이"
+
+영상태그<video src="주소" width="가로길이" height="세로길이" autoplay muted or controls
+
+
  
 웹 문서는 거미줄 처럼 이어진 웹(web)과 문서의 합성어로 문서들이 마치 거미줄 처럼 이어져있음을 말한다. 문서들은 순서없이 그저 연결되어 있을 뿐이며, 우리는 그 문서들 사이를 오가며 우리에게 필요한 정보를 얻는다. 
 
